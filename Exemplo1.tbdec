@@ -1,0 +1,18 @@
+// Exemplo tabela de decisão
+
+Usuario existe  : -  t  t  -  -  t  t  t  t 
+Senha valida    : -  t  t  -  -  f  f  f  t 
+Captcha correto : -  t  t  f  f  t  t  f  t 
+Botao Cancela   : t  f  f  f  f  f  f  f  f 
+Botao Login     : -  t  f  t  f  t  f  t  f  
+Botao Troca     : -  -  t  -  t  -  t  -  t 
+ 
+===============================================
+
+Autoriza             x    
+Erro usuário                     x  x
+Erro captcha               x  x        x  
+Troca senha             x                 x
+Cancela           x
+Impossivel
+
