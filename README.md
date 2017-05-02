@@ -18,6 +18,7 @@ Nome | Descrição
 ### Contribuidores ###
 - **Bruno Balbuena**
 - **Leandro Morgado**
+- **Marcelo Paulon**
 
 ### Licença ###
 O trabalho é licenciado sob a **[Licença Pública Geral GNU Versão 3](http://www.gnu.org/licenses/gpl-3.0.html)**.
