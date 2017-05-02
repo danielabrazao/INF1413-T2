@@ -12,6 +12,12 @@ Nome | Descrição
 **[LICENSE](https://github.com/danielabrazao/INF1413-T2/blob/master/LICENSE)** | Licença do trabalho
 **[README.md](https://github.com/danielabrazao/INF1413-T2/blob/master/README.md)** | Informação geral sobre o trabalho
 **[RELATORIO.md](https://github.com/danielabrazao/INF1413-T2/blob/master/RELATORIO.md)** | Relatório do processo de desenvolvimento do trabalho
+**[Tarefa 1](https://github.com/danielabrazao/INF1413-T2/blob/master/RELATORIO.md)** | Primeira tarefa do trabalho
+**[Tarefa 2](https://github.com/danielabrazao/INF1413-T2/blob/master/RELATORIO.md)** | Segunda tarefa do trabalho
+**[Tarefa 3](https://github.com/danielabrazao/INF1413-T2/blob/master/RELATORIO.md)** | Terceira tarefa do trabalho
+**[Tarefa 4](https://github.com/danielabrazao/INF1413-T2/blob/master/RELATORIO.md)** | Quarta tarefa do trabalho
+**[Tarefa 5](https://github.com/danielabrazao/INF1413-T2/blob/master/RELATORIO.md)** | Quinta tarefa do trabalho
+
 
 ### Referências ###
 - **[Teste de Software (Notas de Aula)](http://www.inf.puc-rio.br/~inf1413/)**
