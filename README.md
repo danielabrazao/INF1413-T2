@@ -11,7 +11,7 @@ Nome | Descrição
 ------------ | -------------
 **[LICENSE](https://github.com/danielabrazao/INF1413-T2/blob/master/LICENSE)** | Licença do trabalho
 **[README.md](https://github.com/danielabrazao/INF1413-T2/blob/master/README.md)** | Informação geral sobre o trabalho
-**[DIARIO.md](https://github.com/danielabrazao/INF1413-T2/blob/master/DIARIO.md)** | Diário do processo de desenvolvimento do trabalho
+**[RELATORIO.md](https://github.com/danielabrazao/INF1413-T2/blob/master/RELATORIO.md)** | Relatório do processo de desenvolvimento do trabalho
 
 ### Referências ###
 - **[Teste de Software (Notas de Aula)](http://www.inf.puc-rio.br/~inf1413/)**
