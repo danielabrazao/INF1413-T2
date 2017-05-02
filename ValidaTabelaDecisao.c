@@ -1,25 +1,25 @@
 /*******************************************************
-  Verificar tabela de decis„o 
+  Verificar tabela de decis√£o 
   (c) LES/INF/PUC-Rio    Arndt von Staa
-  vers„o 1.0 , 2015
+  vers√£o 1.0 , 2015
 
   O programa executa na janela de comando
-  Torne corrente o diretÛrio em que se encontra o programa
+  Torne corrente o diret√≥rio em que se encontra o programa
 
   Para executar o programa use o comando de linha:
 
      ValidaTabelaDecisao  <nome arquivo>
 
-     onde <nome arquivo> È o nome do arquivo com ou sem extens„o
-          a extens„o default È:  tbdec  - ser· acrescentada caso n„o seja fornecida
+     onde <nome arquivo> √© o nome do arquivo com ou sem extens√£o
+          a extens√£o default √©:  tbdec  - ser√° acrescentada caso n√£o seja fornecida
 
-          caso o arquivo da tabela n„o esteja no mesmo path
+          caso o arquivo da tabela n√£o esteja no mesmo path
           que o programa, o nome do arquivo deve determinar o path,
           neste caso procure utilizar um path relativo.
 
 O arquivo da tabela deve ser similar ao exemplo a seguir:
 
-// Exemplo tabela de decis„o
+// Exemplo tabela de decis√£o
 
 Usuario existe  : -  t  t  -  -  t  t  t  t 
 Senha valida    : -  t  t  -  -  f  f  f  t 
@@ -31,7 +31,7 @@ Botao Troca     : -  -  t  -  t  -  t  -  t
 ===============================================
 
 Autoriza        :    x    
-Erro usu·rio    :                x  x
+Erro usu√°rio    :                x  x
 Erro captcha    :          x  x        x  
 Troca senha     :       x                 x
 Cancela         : x
@@ -39,30 +39,29 @@ Impossivel      :
 
 <EOF>
 
-  Linhas em branco e coment·rios s„o ignorados
-  Linhas de coment·rio iniciam com "//"
+  Linhas em branco e coment√°rios s√£o ignorados
+  Linhas de coment√°rio iniciam com "//"
 
-  O final da parte de definiÁ„o das condiÁıes È sinalizado 
+  O final da parte de defini√ß√£o das condi√ß√µes √© sinalizado 
   por uma linha iniciando com "==="  
 
-  O texto apÛs o "===" È ignorado e pode conter a lista de aÁıes ou or·culos
+  O texto ap√≥s o "===" √© ignorado e pode conter a lista de a√ß√µes ou or√°culos
 
-  Em cada linha de condiÁıes
-     Os caracteres do inÌcio da linha atÈ o caractere ':'  identificam a condiÁ„o
-     Os caracteres apÛs o ':' informam os valores a serem usados na linha,
+  Em cada linha de condi√ß√µes
+     Os caracteres do in√≠cio da linha at√© o caractere ':'  identificam a condi√ß√£o
+     Os caracteres ap√≥s o ':' informam os valores a serem usados na linha,
             devem ser um de 't', 'f', 'T', 'F', ou '-'
 
 ********************************************************/
 
 #include    <stdio.h>
-#include    <direct.h>
 #include    <string.h>
 #include    <stdlib.h>
 #include    <ctype.h>
 #include    <math.h>
 #include    <io.h>
 
-/* Constantes internas do m¢dulo */
+/* Constantes internas do m¬¢dulo */
 
 #define  DIM_BUFFER        512
 #define  DIM_NOME_ARQ      256
@@ -86,7 +85,7 @@ Impossivel      :
       static int DIM_LINHA = sizeof( tpLinha ) ;
 
       static int contaDecisoes ;
-            /* Contador de decisıes lidas */
+            /* Contador de decis√µes lidas */
 
       static tpLinha tabDecisao[ MAX_NUM_DECISAO ] ;
             /* Tabela de decisao lida */
@@ -94,7 +93,7 @@ Impossivel      :
       FILE * pArqTabela ;
             /* Arquivo de onde deve ler */
 
-/***** ProtÛtipos das funÁıes encapuladas no mÛdulo *****/
+/***** Prot√≥tipos das fun√ß√µes encapuladas no m√≥dulo *****/
 
    static int TemExtensao( char * NomeArq ) ;
    static int CompararColuna( int col1 , int col2 ) ;
@@ -118,7 +117,7 @@ Impossivel      :
       int     maxCol ;
       tpLinha corrLinha ;
 
-      /* Apresentar identificaáÑo */
+      /* Apresentar identifica‚Ä°‚Äûo */
 
          printf( "\n\nVerificador de tabela de decisao" ) ;
          printf(   "\n   Laboratorio de Engenharia de Software "   ) ;
@@ -160,19 +159,19 @@ Impossivel      :
      
          while ( ! feof( pArqTabela ) )
          {
-         /* ler a parte da condiÁ„o */
+         /* ler a parte da condi√ß√£o */
 
             memset( &corrLinha , 0 , DIM_LINHA ) ;
             tamBuffer = strlen( buffer ) ;
 
-     /* controlar fim da parte de linhas de condiÁıes */
+     /* controlar fim da parte de linhas de condi√ß√µes */
      
             if ( memcmp( buffer , "===" , 3 ) == 0 )
             {
                break ;
             } /* if */
 
-     /* saltar o nome da condiÁ„o na linha */
+     /* saltar o nome da condi√ß√£o na linha */
 
             for ( i = tamBuffer - 2 ; i > 0 ; i-- )
             {
@@ -211,7 +210,7 @@ Impossivel      :
                } /* for */
                corrLinha.condicao[ j + 1 ] = 0 ;
 
-            /* Ler a lista de condiÁıes da linha */
+            /* Ler a lista de condi√ß√µes da linha */
              
                col = 0 ;
                for ( ; i < tamBuffer ; i++ )
@@ -361,7 +360,7 @@ Impossivel      :
             {
                tamBuffer = strlen( buffer ) ;
 
-            /* imprimir linha que contÈm or·culo */
+            /* imprimir linha que cont√©m or√°culo */
 
                for ( i = 0 ; i < tamBuffer ; i++ )
                {
@@ -394,7 +393,7 @@ Impossivel      :
 
                fgets( buffer , DIM_BUFFER , pArqTabela ) ;
 
-            } /* while imprimir or·culo*/ 
+            } /* while imprimir or√°culo*/ 
 
             fclose( pArqTabela ) ;
           
@@ -402,11 +401,11 @@ Impossivel      :
             return 0 ;
          } /* if */
 
-   } /* fim da funÁ„o main */
+   } /* fim da fun√ß√£o main */
 
 /***********************************************************************
 *
-*  $FC FunÁ„o: Comparar coluna 
+*  $FC Fun√ß√£o: Comparar coluna 
 *        return 0 - colums are logically equal,  1 are logically different
 *
 ***********************************************************************/
@@ -431,7 +430,7 @@ Impossivel      :
    } /* fim comparar coluna */
 /***********************************************************************
 *
-*  $FC FunÁ„o: Ver se nome de arquivo tem extens„o
+*  $FC Fun√ß√£o: Ver se nome de arquivo tem extens√£o
 *
 ***********************************************************************/
 
@@ -455,4 +454,4 @@ Impossivel      :
       } /* for */
       return encontrou ;
 
-   } /* Fim funÁ„o: Ver se nome de arquivo tem extensÑo */
+   } /* Fim fun√ß√£o: Ver se nome de arquivo tem extens‚Äûo */
