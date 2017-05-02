@@ -9,8 +9,8 @@
 
 Nome | Descrição
 ------------ | -------------
-*LICENSE* | Licença do trabalho
-*README.md* | Informação geral sobre o trabalho
+**[LICENSE](https://github.com/danielabrazao/INF1413-T2/blob/master/LICENSE)** | Licença do trabalho
+**[README.md](https://github.com/danielabrazao/INF1413-T2/blob/master/README.md)** | Informação geral sobre o trabalho
 
 ### Referências ###
 - **[Teste de Software (Notas de Aula)](http://www.inf.puc-rio.br/~inf1413/)**
