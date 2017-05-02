@@ -1,4 +1,4 @@
-# Diário #
+# Relatório #
 
 Data | Tempo trabalhando | Quem trabalhou | Tipo da tarefa | Descrição da Tarefa Realizada
 ------------ | ------------- | ------------- | ------------- | -------------
