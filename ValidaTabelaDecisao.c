@@ -59,7 +59,6 @@ Impossivel      :
 #include    <stdlib.h>
 #include    <ctype.h>
 #include    <math.h>
-#include    <io.h>
 
 /* Constantes internas do m¢dulo */
 
