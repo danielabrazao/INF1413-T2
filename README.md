@@ -24,7 +24,7 @@ Nome | Descrição
 ### Referências ###
 - **[Teste de Software (Notas de Aula)](http://www.inf.puc-rio.br/~inf1413/)**
 
-### Contribuidores ###
+### Contribuidor ###
 - **Marcelo Paulon**
 
 ### Licença ###
