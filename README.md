@@ -1,6 +1,8 @@
 # Segundo trabalho da disciplina de Teste de Software #
-- **Aluna**: 
+- **Alunos**: 
+  * Bruno Balbuena — 1210463
   * Daniela Brazão Maksoud (**[@danielabrazao](https://github.com/danielabrazao)**) — 1321873
+  * Leandro Morgado — 1212042
 - **Disciplina**: INF1413
 - **Professor**: Arndt Von Staa
 - **Instituição**: Pontifícia Universidade Católica do Rio de Janeiro
@@ -23,8 +25,6 @@ Nome | Descrição
 - **[Teste de Software (Notas de Aula)](http://www.inf.puc-rio.br/~inf1413/)**
 
 ### Contribuidores ###
-- **Bruno Balbuena**
-- **Leandro Morgado**
 - **Marcelo Paulon**
 
 ### Licença ###
