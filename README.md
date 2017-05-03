@@ -1,7 +1,7 @@
 # Segundo trabalho da disciplina de Teste de Software #
 - **Alunos**: 
   * Bruno Balbuena — 1210463
-  * Daniela Brazão Maksoud (**[@danielabrazao](https://github.com/danielabrazao)**) — 1321873
+  * Daniela Brazão Maksoud (**[@danielamaksoud](https://github.com/danielamaksoud)**) — 1321873
   * Leandro Morgado — 1212042
 - **Disciplina**: INF1413
 - **Professor**: Arndt Von Staa
