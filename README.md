@@ -1,3 +1,5 @@
+![Daniela Maksoud Logo](http://sempregatas.com.br/imagens/Logo.png)
+
 # Segundo trabalho da disciplina de Teste de Software #
 - **Alunos**: 
   * Bruno Balbuena — 1210463
