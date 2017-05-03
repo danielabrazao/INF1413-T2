@@ -11,9 +11,9 @@ Custo total correto do pedido       : -  -  f  f  f  t  -  t  f  t
 
 Erro internet                       : x
 Erro banco de dados                 :    x
-Visualiza lista de produtos         :       x              x  x  x
+Visualiza lista de produtos         :       x              x  x
 Carrinho vazio                      :          x  x  x
 Visualiza desconto correto          :             x  x     x  x
 Visualiza custo total correto       :                x     x
-Carrinho inexistente                :                      x
-Impossivel                          :                  
+Carrinho inexistente                :                   x                      
+Impossivel                          :                            x                 
