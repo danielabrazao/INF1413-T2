@@ -28,7 +28,7 @@ Nome | Descrição
 - **[Teste de Software (Notas de Aula)](http://www.inf.puc-rio.br/~inf1413/)**
 
 ### Contribuidor ###
-- **Marcelo Paulon** ([@marcelopaulon](https://github.com/marcelopaulon))
+- **Marcelo Paulon** (**[@marcelopaulon](https://github.com/marcelopaulon)**)
 
 ### Licença ###
 O trabalho é licenciado sob a **[Licença Pública Geral GNU Versão 3](http://www.gnu.org/licenses/gpl-3.0.html)**.
