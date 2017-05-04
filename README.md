@@ -33,4 +33,4 @@ Nome | Descrição
 ### Licença ###
 O trabalho é licenciado sob a **[Licença Pública Geral GNU Versão 3](http://www.gnu.org/licenses/gpl-3.0.html)**.
 
-[Trying Kitty](https://github.com/danielamaksoud/INF1413-T2/blob/master/TryingKitty.png)
+![Trying Kitty](https://github.com/danielamaksoud/INF1413-T2/blob/master/TryingKitty.png)
