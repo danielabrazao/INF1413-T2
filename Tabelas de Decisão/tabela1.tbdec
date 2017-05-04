@@ -7,7 +7,7 @@ Quantidade de itens igual a zero    : -  -  f  t  t  t  -  f  f  -
 Valor correto do desconto do pedido : -  -  f  f  t  t  -  t  t  f  
 Custo total correto do pedido       : -  -  f  f  f  t  -  t  f  t   
 
-=======================================================
+===================================================================
 
 Erro internet                       : x
 Erro banco de dados                 :    x
