@@ -22,6 +22,7 @@ Nome | Descrição
 **[Tarefa 4](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/Tarefa4.doc)** | Solução da quarta tarefa do trabalho
 **[Tarefa 5](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/Tarefa5.doc)** | Solução da quinta tarefa do trabalho
 **[tabela1.tbdec](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tabelas%20de%20Decis%C3%A3o/tabela1.tbdec)** | Primeira tabela de decisão da **[Tarefa 2](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/Tarefa2.doc)**
+**[tabela2.tbdec](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tabelas%20de%20Decis%C3%A3o/tabela1.tbdec)** | Segunda tabela de decisão da **[Tarefa 2](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/Tarefa2.doc)**
 
 
 ### Referências ###
