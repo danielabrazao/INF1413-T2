@@ -4,7 +4,7 @@
 - **Alunos**: 
   * Bruno Balbuena — 1210463
   * Daniela Brazão Maksoud (**[@danielamaksoud](https://github.com/danielamaksoud)**) — 1321873
-  * Leandro Morgado — 1212042
+  * Leandro Morgado (**[@lmorgado](https://github.com/lmorgado)**) — 1212042
 - **Disciplina**: INF1413
 - **Professor**: Arndt Von Staa
 - **Instituição**: Pontifícia Universidade Católica do Rio de Janeiro
