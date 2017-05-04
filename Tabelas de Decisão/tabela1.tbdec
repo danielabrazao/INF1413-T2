@@ -3,11 +3,11 @@
 Conexao com a internet              : f  t  t  t  t  t  t  t  t  t   
 Conexao com os bancos de dados      : -  f  t  t  t  t  t  t  t  t  
 Carrinho de compras criado          : -  -  t  t  t  t  f  t  t  t   
-Quantidade de itens igual a zero    : -  -  f  t  t  t  -  f  f  -  
-Valor correto do desconto do pedido : -  -  f  f  t  t  -  t  t  f  
-Custo total correto do pedido       : -  -  f  f  f  t  -  t  f  t   
+Quantidade de itens == 0            : -  -  f  t  t  t  -  f  f  -  
+Valor correto desconto              : -  -  f  f  t  t  -  t  t  f  
+Custo total correto                 : -  -  f  f  f  t  -  t  f  t   
 
-===================================================================
+====================================
 
 Erro internet                       : x
 Erro banco de dados                 :    x
