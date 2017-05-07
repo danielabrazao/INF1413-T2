@@ -17,6 +17,5 @@ Carrinho vazio                      :             x
 Visualiza desconto correto          :                               x
 Visualiza custo total correto       :                               x  
 Carrinho inexistente                :       x                                                
-Quantidade maxima excedida          :                      x     
-Quantidade invalida                 :                            x          
-Impossivel                          :                x  x     x           x                   
+Quantidade maxima excedida          :                      x        
+Impossivel                          :                x  x     x  x        x                   
