@@ -1,21 +1,20 @@
-// Tabela de decisao 2
-//                                    1  2  3  4  5  6  7  8  9 10 11 12
-Conexao com a internet              : f  t  t  t  t  t  t  t  t  t  t  t   
-Conexao com os bancos de dados      : -  f  t  t  t  t  t  t  t  t  t  t  
-Carrinho de compras criado          : -  -  t  t  t  t  t  t  f  t  t  t  
-Quantidade de itens == 0            : -  -  f  t  t  t  t  t  -  f  f  -
-Quantidade de itens > 2500          : -  -  f  f  t  t  t  t  -  f  f  f
-Quantidade de itens < 0             : -  -  f  f  f  t  t  t  -  f  f  f
-Valor correto desconto              : -  -  f  f  f  f  t  t  -  t  t  f
-Custo total correto                 : -  -  f  f  f  f  f  t  -  t  f  t 
-
+// Tabela de decisao 2 
+//                                    1  2  3  4  5  6  7  8  9 10 11 12 13
+Conexao com a internet              : f  t  t  t  t  t  t  t  t  t  t  t  t
+Conexao com os bancos de dados      : -  f  t  t  t  t  t  t  t  t  t  t  t
+Carrinho de compras criado          : -  -  f  t  t  t  t  t  t  t  t  t  t
+Quantidade de itens == 0            : -  -  -  f  t  t  f  f  t  f  f  f  f
+Quantidade de itens > 2500          : -  -  -  f  f  t  t  t  f  f  f  f  f
+Quantidade de itens < 0             : -  -  -  f  f  -  t  f  t  t  f  f  f
+Valor correto desconto              : -  -  -  f  -  -  -  -  -  -  t  f  t
+Custo total correto                 : -  -  -  f  -  -  -  -  -  -  t  t  f
 ====================================
-
+//                                    1  2  3  4  5  6  7  8  9 10 11 12 13
 Erro internet                       : x
-Erro banco de dados                 :    x
-Visualiza lista de produtos         :       x              x  x
-Carrinho vazio                      :          x      
-Visualiza desconto correto          :                      x  x
-Visualiza custo total correto       :                      x
-Carrinho inexistente                :                            x                      
-Impossivel                          :             x  x  x  x           x        
+Erro banco de dados                 :    x     
+Visualiza lista de produtos         :          x                    x  x
+Carrinho vazio                      :             x       
+Visualiza desconto correto          :                               x
+Visualiza custo total correto       :                               x  
+Carrinho inexistente                :       x                                                    
+Impossivel                          :                x  x  x  x  x        x                   
