@@ -9,6 +9,6 @@ Data | Tempo trabalhando | Quem trabalhou | Tipo da tarefa | Descrição da Tare
 07/05/2017 | 1 hora | Daniela Maksoud | Redigir | Fim da realização da **[Tarefa 2](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa2.doc)**.
 04/05/2017 | 2 horas | Bruno Balbuena | Estudar, Redigir | Estudo do enunciado do trabalho e das notas de aula e início da realização da **[Tarefa 4](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa4.doc)**.
 07/05/2017 | 3 horas | Bruno Balbuena | Redigir | Fim da realização da **[Tarefa 4](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa4.doc)**.
-07/05/2017 | 1 hora | Bruno Balbuena | Redigir | Início da realização da **[Tarefa 5](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa5.doc)**.
+07/05/2017 | 1 hora | Bruno Balbuena | Estudar, Redigir | Início da realização da **[Tarefa 5](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa5.doc)**.
 07/05/2017 | 1 hora | Bruno Balbuena | Redigir | Fim da realização da **[Tarefa 5](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa5.doc)**.
 
