@@ -1,0 +1,15 @@
+// Tabela de decisao 3 
+//                                    1  2  3
+Botao Alterar Quantidade            : t  t  f
+Botao +                             : t  f  f
+Botao -                             : f  t  f
+Botao Salvar                        : t  t  f
+Botao Excluir Produto               : f  f  t
+Botao OK                            : f  f  t
+Botao x (Cancelar)                  : f  f  f
+====================================
+//                                    1  2  3
+Atualiza carrinho de compras        : x  x  x
+Incrementa quantidade produto       : x        
+Decrementa quantidade produto       :    x
+Exclui um produto                   :       x
