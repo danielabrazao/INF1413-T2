@@ -9,7 +9,7 @@ Data | Horas Trabalhadas | Quem trabalhou | Tipo Tarefa | Descrição da Tarefa 
 04/05/2017 | 2 horas | Bruno Balbuena | Estudar, Redigir | Estudo do enunciado do trabalho e das notas de aula e início da realização da **[Tarefa 4](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa4.doc)**.
 04/05/2017 | 3 horas | Leandro Morgado | Estudar, Redigir | Estudo do enunciado do trabalho e das notas de aula e início da realização da **[Tarefa 3](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa3.doc)**.
 07/05/2017 | 1 hora | Daniela Maksoud | Redigir | Fim da realização da **[Tarefa 2](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa2.doc)**.
-07/05/2017 | 3 horas | Bruno Balbuena | Redigir | Fim da realização da **[Tarefa 4](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa4.doc)**, início e fim da realização da **[Tarefa 5](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa5.doc)**.
+07/05/2017 | 4 horas | Bruno Balbuena | Redigir | Fim da realização da **[Tarefa 4](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa4.doc)**, início e fim da realização da **[Tarefa 5](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa5.doc)**.
 07/05/2017 | 1 hora | Leandro Morgado | Estudar, Redigir | Fim da realização da **[Tarefa 3](https://github.com/danielamaksoud/INF1413-T2/blob/master/Tarefas/doc/Tarefa3.doc)**.
 08/05/2017 | 2 horas | Bruno Balbuena | Revisar | Revisão do trabalho para entrega.
 08/05/2017 | 2 horas | Daniela Maksoud | Revisar | Revisão do trabalho para entrega.
