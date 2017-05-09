@@ -1,5 +1,7 @@
 // Tabela de decisao 3 
 //                                    1  2  3
+Conexao com internet                : t  t  t
+Conexao com bancos de dados         : t  t  t
 Botao Alterar Quantidade            : t  t  f
 Botao +                             : t  f  f
 Botao -                             : f  t  f
